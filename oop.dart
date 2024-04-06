@@ -26,7 +26,7 @@ abstract class Workable {
 List<Employee> getEmployeesFromFile() {
   return[
     Employee("Jane Doe", "Finance"),
-    Manager("will Smith", "CEO")
+    Manager("Will Smith", "CEO")
   ];
 }
 void main(){
